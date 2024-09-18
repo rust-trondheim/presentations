@@ -8,3 +8,4 @@
 - 23.04.2024 - Show and Tell in April: Image Optimization ([code](https://github.com/rosvik/img.248.no))
 - [23.04.2024 - Show and Tell in April: Infoskjerm!](./slides/2024-04-23-infoskjerm.pdf) ([code](https://github.com/Knowit-Objectnet/infoskjerm-trondheim))
 - [23.04.2024 - Show and Tell in April: Pizza + 🦀 = <3](./slides/2024-04-23-pizza-and-rust.pdf)
+- 27.08.2024 - Exploring Slint: A Rust-based UI Toolkit (mob programming session, [repo used here](https://github.com/rust-trondheim/rust-trondheim-meetup-ui))
